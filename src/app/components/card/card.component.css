@@ -1,0 +1,16 @@
+.card{
+    min-height: 750px !important;
+    border-radius: 25px;
+    
+    box-shadow: rgba(14,30,37,0.12) 0px 2px 4px 0px,
+     rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+.card img{
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    max-height: 490px;
+    min-height: 490px;
+    object-fit: cover;
+}
+
